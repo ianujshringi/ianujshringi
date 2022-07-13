@@ -46,7 +46,7 @@ I am a Blockchain Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="c#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="polygon" width="40" height="40"/>&nbsp;
   <img src="https://github.com/iamlucnguyen/react-native-cryptocurrency-hexagon-icons/blob/master/assets/originals/eth.svg" title="Ethereum" alt="ethereum" width="40" height="40"/>&nbsp;
-  <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" title="Polygon" alt="polygon" width="40" height="40"/>&nbsp;
+  <img src="https://chainstack.com/wp-content/uploads/2021/12/hardhat.png" title="Hatdhat" alt="hardhat" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/55654090?s=200&v=4" title="Brownie" alt="brownie" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
